@@ -1,4 +1,4 @@
-# NSFWBypass
+# NSFW Bypass
 A powercord plugin to bypass age restrictions on NSFW channels.
 
 ### Installation
